@@ -29,6 +29,12 @@ Welcome to my corner of GitHub! I'm a multidisciplinary game-focused developer w
 - **Zappy**: Turn-based strategy game developed in Godot Engine as part of my 42 curriculum
 - **ft_vox**: Experimenting with Vulkan API to deepen understanding of modern rendering pipelines
 
+<div align="center">
+  <img src="in-the-shadows.png" alt="in the shadows prototype" width=500 align="center">
+  <img src="zappy.png" alt="zappy prototype" width=500 align="center">
+  <br>
+</div>
+
 ## Next Steps 🎯
 
 - Expanding Godot Engine and C# expertise through ongoing game projects
