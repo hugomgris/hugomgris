@@ -2,7 +2,13 @@
 
 **Programmer · C · C++ · C# | Game Developer · Unity · Godot | Video Essayist | Architect**
 
-<img src="ppic.png" alt="Me (dramatization)" width="200">
+<img src="ppic.png" alt="Me (dramatization)" width="200" align="right">
+
+<div align="center">
+  <img src="ppic.png" alt="Me (dramatization)">
+  <br>
+  <em>Me (dramatization)</em>
+</div>
 
 Welcome to my corner of GitHub! I'm a multidisciplinary game-focused developer with a unique blend of technical programming skills and creative storytelling. Currently diving deep into the world of gameplay programming at 42 Barcelona while building games and exploring the intersection of technology, narrative, and human experience.
 
