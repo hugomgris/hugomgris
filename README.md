@@ -3,7 +3,7 @@
 **Programmer · C · C++ · C# | Game Developer · Unity · Godot | Video Essayist | Architect**
 
 <div align="center">
-  <img src="ppic.png" alt="Me (dramatization)" align="center">
+  <img src="ppic.png" alt="Me (dramatization)" width=500 align="center">
   <br>
   <em>Me (dramatization)</em>
   <br>
