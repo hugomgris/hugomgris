@@ -10,7 +10,7 @@
   <br>
 </div>
 
-Welcome to my corner of GitHub! I'm a multidisciplinary game-focused developer with a unique blend of technical programming skills and creative storytelling. Currently diving deep into the world of gameplay programming at 42 Barcelona while building games and exploring the intersection of technology, narrative, and human experience.
+Welcome to my corner of GitHub! I'm a multidisciplinary game-focused developer with a unique blend of technical programming skills, design background and creative storytelling. Currently diving deep into the world of gameplay programming at 42 Barcelona while building games and exploring the intersection of technology, narrative design, and human experience.
 
 ## About Me 🙆‍♂️
 
