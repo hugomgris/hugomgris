@@ -41,9 +41,7 @@ Welcome to my corner of GitHub! I'm a multidisciplinary game-focused developer w
 - Compiling a new book of video essay scripts on game narratives and culture
 - Preparing for JLPT N3 to advance my Japanese proficiency
 
-## Educational Highlights
-
-### Featured Projects
+## Featured Projects
 
 **[ft_transcendence](https://github.com/hugomgris/ft_transcendence)**  
 Full-stack Pong with blockchain integration, 2FA security, and microservices architecture
