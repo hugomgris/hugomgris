@@ -43,11 +43,14 @@ Welcome to my corner of GitHub! I'm a multidisciplinary game-focused developer w
 
 ## Featured Projects
 
+**[Sprite Ditherer](https://github.com/hugomgris/sprite_ditherer)**
+Python based, Blender script pipeline to snapshot and dither riggeed models
+
+**[PONG - The Echo From a Distant Past](https://github.com/hugomgris/pong)**
+Modern, extensible Pong game engine with PixiJS/TypeScript, featuring advanced physics, real-time multiplayer, AI opponents, and ECS architecture
+
 **[ft_transcendence](https://github.com/hugomgris/ft_transcendence)**  
 Full-stack Pong with blockchain integration, 2FA security, and microservices architecture
-
-**[PONG - The Echo From a Distant Past](https://github.com/hugomgris/pong)**  
-Modern, extensible Pong game engine with PixiJS/TypeScript, featuring advanced physics, real-time multiplayer, AI opponents, and ECS architecture
 
 **[SCOP](https://github.com/hugomgris/scop)**  
 3D object viewer in C++/OpenGL with modular rendering, multiple display modes, multi-texture/shader support, and custom UI
