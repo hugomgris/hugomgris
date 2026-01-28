@@ -1,6 +1,6 @@
 # Hey, I'm Hugo!
 
-**Programmer · C · C++ · C# | Game Developer · Unity · Godot | Video Essayist | Architect**
+**Programmer · C · C++ · C# | Game Developer · Unity · Godot · Playdate | Video Essayist | Architect**
 
 <div align="center">
   <img src="ppic.png" alt="Me (dramatization)" width=500 align="center">
@@ -15,10 +15,10 @@ Welcome to my corner of GitHub! I'm a multidisciplinary game-focused developer w
 ## About Me
 
 - **Low-Level Programming**: Proficient in C/C++, systems programming, and graphics APIs (OpenGL, exploring Vulkan)
-- **Game Development**: Unity, Godot Engine, game mechanics design, physics implementation
+- **Game Development**: Unity, Godot Engine, Playdate SDK, game mechanics design, physics implementation
 - **Object-Oriented Programming**: Strong foundation in OOP principles, design patterns, and software architecture
 - **Web Development**: Full-stack development with JavaScript/TypeScript, Node.js, WebSocket, PixiJS
-- **Creative & Design**: 8+ years in game criticism, video production, architectural design, and interactive exhibitions
+- **Creative & Design**: 10+ years in game criticism, video production, architectural design, and interactive exhibitions
 - **Languages**: Spanish (native), English (CPE certified), Japanese (JLPT N4), Italian (B2), Catalan
 
 ## Currently Working On
