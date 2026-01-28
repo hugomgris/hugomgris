@@ -23,12 +23,12 @@ Welcome to my corner of GitHub! I'm a multidisciplinary game-focused developer w
 
 ## Currently Working On
 
-- **in-the-shadows**: A shadow puppet game built in Godot Engine - exploring atmospheric storytelling through innovative mechanics
-- **Zappy**: Turn-based strategy game developed in Godot Engine as part of my 42 curriculum
+- **Sombra**: A shadow puppet game prototype for Playdate
+- **Zappy**: Turn-based strategy game developed in Godot Engine
 - **ft_vox**: Experimenting with Vulkan API to deepen understanding of modern rendering pipelines
 
 <div align="center">
-  <img src="in-the-shadows.png" alt="in the shadows prototype" width=500 align="center">
+  <img src="sombra.png" alt="sombra Playdate prototype" width=500 align="center">
   <img src="zappy.png" alt="zappy prototype" width=500 align="center">
   <br>
 </div>
@@ -42,6 +42,9 @@ Welcome to my corner of GitHub! I'm a multidisciplinary game-focused developer w
 - Preparing for JLPT N3 to advance my Japanese proficiency
 
 ## Featured Projects
+
+**[Nibbler](https://github.com/hugomgris/nibbler)**
+Cross-platform Snake game reimagining with hot-swappable graphics libraries and zero-leak memory management. Exploring the boundaries between ASCII art, pixel graphics, and isometric 3D — all in a single executable.
 
 **[Sprite Ditherer](https://github.com/hugomgris/sprite_ditherer)**  
 Python based, Blender script pipeline to snapshot and dither riggeed models
