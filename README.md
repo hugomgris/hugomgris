@@ -34,6 +34,12 @@ Welcome to my corner of GitHub! I'm a multidisciplinary game-focused developer w
   <br>
 </div>
 
+<div alignt="center">
+  <img src="ros1.png" alt="rosario project with ASCII graphics" width=200>
+  <img src="ros1.png" alt="rosario project with 2D flat graphics" width=200>
+  <img src="ros1.png" alt="rosario project with 3D graphics" width=200>
+</div>
+
 ## Next Steps
 
 - Expanding Godot Engine and C# expertise through ongoing game projects
