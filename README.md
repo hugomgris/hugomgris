@@ -30,12 +30,13 @@ Welcome to my corner of GitHub! I'm a multidisciplinary game-focused developer w
 
 <div align="center">
   <img src="sombra.png" alt="sombra Playdate prototype" width=500 align="center">
-  <br>
-  <img src="zappy.png" alt="zappy prototype" width=500 align="center" vspace=10>
-  <br>
 </div>
-
-<div alignt="center">
+<br>
+<div align="center">
+  <img src="zappy.png" alt="zappy prototype" width=500 align="center">
+</div>
+<br>
+<div align="center">
   <img src="ros_1.png" alt="rosario project with ASCII graphics" height=200 hspace=10>
   <img src="ros_2.png" alt="rosario project with 2D flat graphics" height=200 hspace=10>
   <img src="ros_3.png" alt="rosario project with 3D graphics" height=200 hspace=10>
