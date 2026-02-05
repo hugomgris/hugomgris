@@ -25,6 +25,7 @@ Welcome to my corner of GitHub! I'm a multidisciplinary game-focused developer w
 
 - **Sombra**: A shadow puppet game prototype for Playdate
 - **Zappy**: Turn-based strategy game developed in Godot Engine
+- **Rosary**: A multi-platform game engine built from scratch with graphic and audio libraries real time hotswap
 - **ft_vox**: Experimenting with Vulkan API to deepen understanding of modern rendering pipelines
 
 <div align="center">
