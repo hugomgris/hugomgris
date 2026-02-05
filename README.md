@@ -35,9 +35,9 @@ Welcome to my corner of GitHub! I'm a multidisciplinary game-focused developer w
 </div>
 
 <div alignt="center">
-  <img src="ros1.png" alt="rosario project with ASCII graphics" width=200>
-  <img src="ros1.png" alt="rosario project with 2D flat graphics" width=200>
-  <img src="ros1.png" alt="rosario project with 3D graphics" width=200>
+  <img src="ros_1.png" alt="rosario project with ASCII graphics" width=200>
+  <img src="ros_2.png" alt="rosario project with 2D flat graphics" width=200>
+  <img src="ros_3.png" alt="rosario project with 3D graphics" width=200>
 </div>
 
 ## Next Steps
