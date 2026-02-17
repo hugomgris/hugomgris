@@ -25,7 +25,7 @@ Welcome to my corner of GitHub! I'm a multidisciplinary game-focused developer w
 
 - **Sombra**: A shadow puppet game prototype for Playdate
 - **Zappy**: Turn-based strategy game developed in Godot Engine
-- **Rosary**: A multi-platform game engine built from scratch with graphic and audio libraries real time hotswap
+- **Rosario**: A C++ Raylib based game engine built from scratch
 - **ft_vox**: Experimenting with Vulkan API to deepen understanding of modern rendering pipelines
 
 <div align="center">
@@ -37,9 +37,8 @@ Welcome to my corner of GitHub! I'm a multidisciplinary game-focused developer w
 </div>
 <br>
 <div align="center">
-  <img src="ros_1.png" alt="rosario project with ASCII graphics" height=200 hspace=10>
-  <img src="ros_2.png" alt="rosario project with 2D flat graphics" height=200 hspace=10>
-  <img src="ros_3.png" alt="rosario project with 3D graphics" height=200 hspace=10>
+  <img src="rosario-2D.png" alt="rosario project with 2D graphics" height=200 hspace=10>
+  <img src="rosario-3D" alt="rosario project with 3D graphics" height=200 hspace=10>
 </div>
 
 ## Next Steps
