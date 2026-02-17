@@ -38,7 +38,7 @@ Welcome to my corner of GitHub! I'm a multidisciplinary game-focused developer w
 <br>
 <div align="center">
   <img src="rosario-2D.png" alt="rosario project with 2D graphics" height=200 hspace=10>
-  <img src="rosario-3D" alt="rosario project with 3D graphics" height=200 hspace=10>
+  <img src="rosario-3D.png" alt="rosario project with 3D graphics" height=200 hspace=10>
 </div>
 
 ## Next Steps
