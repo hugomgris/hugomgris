@@ -50,6 +50,9 @@ Welcome to my corner of GitHub! I'm a multidisciplinary game-focused developer w
 
 ## Featured Projects
 
+**[Rosario Engine](https://github.com/hugomgris/rosario-engine)**
+A custom game engine built from scratch on C++ with Raylib, featuring a modular system architecture, dual 2D/3D rendering pipelines, advanced particle systems, and AI-driven gameplay. Experimental sandbox for game mechanics and visual design patterns.
+
 **[Nibbler](https://github.com/hugomgris/nibbler)**
 Cross-platform Snake game reimagining with hot-swappable graphics libraries and zero-leak memory management. Exploring the boundaries between ASCII art, pixel graphics, and isometric 3D — all in a single executable.
 
