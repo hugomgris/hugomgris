@@ -36,7 +36,9 @@ Welcome to my corner of GitHub! I'm a multidisciplinary game-focused developer w
   <img src="zappy.png" alt="zappy prototype" width=500 align="center">
 </div>
 <br>
-<img src="rosario-3D.png" alt="rosario project with 3D graphics" height=200>
+<div align="center">
+  <img src="rosario-2D.png" alt="rosario project with 2D graphics" width=500 align="center">
+</div>
 
 ## Next Steps
 
