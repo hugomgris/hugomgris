@@ -43,9 +43,9 @@ Welcome to my corner of GitHub! I'm a multidisciplinary game-focused developer w
 ## Next Steps
 
 - Become a world class mega master in C++
+- Explore the realms of data driven programming in depth
 - Expanding Godot Engine and C# expertise through ongoing game projects
-- Diving into Vulkan graphics programming for advanced rendering techniques
-- Learning Lua and experimenting with the Playdate SDK for retro game development
+- Learning Lua and experimenting with the Playdate SDK to build little, playful games
 - Compiling a new book of video essay scripts on game narratives and culture
 - Preparing for JLPT N3 to advance my Japanese proficiency
 
